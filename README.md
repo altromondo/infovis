@@ -8,7 +8,7 @@
 </head>
 <body>
 <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a><br/>
-<a href="https://altromondo.github.io/infovis/tableau_1er_ejercicio.html">Makeover Monday</a>
+<a href="https://altromondo.github.io/infovis/tableau_1er_ejercicio.html">Makeover Monday Week 18</a>
 </body>
 </html>
 
