@@ -1,14 +1,7 @@
 # infovis
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-</head>
-<body>
-  <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">Markdown Cheatsheet</a><br/>
-  <a href="https://altromondo.github.io/infovis/tableau_1er_ejercicio.html">Makeover Monday Week 18</a>
-</body>
-</html>
+### Prácticas realizadas para la materia *Visualización de la Información*, como parte de la *Especialización en Ciencia de Datos* en el ITBA.
+
+[Makeover Monday | Week 18 | Viz5: Obstetric Fistula in Madagascar](https://altromondo.github.io/infovis/tableau_1er_ejercicio.html)
+
 
