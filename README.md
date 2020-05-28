@@ -8,4 +8,6 @@
 
 [Makeover Monday | Week 20 | Auto Insurance Rate by State](https://bl.ocks.org/altromondo/acbad0d5187be144b0266672eaa91a79)
 
+[TP Infovis | Distribución temporal interacciones por WhatsApp durante la cuarentena](https://altromondo.github.io/infovis/infovis_simple_strip_plot.ipynb)
+
 
