@@ -10,4 +10,4 @@
 
 [Makeover Monday | Week 21 | Visualizing 40 Years of Music Industry Sales](https://bl.ocks.org/altromondo/a65a12961e6d07caee6e705ceca0256b)
 
-[TP Infovis | Distribución temporal interacciones por WhatsApp durante la cuarentena](https://https://nbviewer.jupyter.org/github/altromondo/infovis/blob/gh-pages/whatsapp_chatlog.ipynb)
+[TP Infovis | Distribución temporal interacciones por WhatsApp durante la cuarentena](https://nbviewer.jupyter.org/github/altromondo/infovis/blob/gh-pages/whatsapp_chatlog.ipynb)
